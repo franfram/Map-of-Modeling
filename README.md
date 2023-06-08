@@ -22,6 +22,12 @@ Non-linear models
 
 DiffEq models
 
+Models as information compression
+
+Models as representations
+
+Speaking math?
+
 Approximation problems
 
 Computation in models
