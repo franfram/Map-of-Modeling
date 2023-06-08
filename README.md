@@ -30,6 +30,10 @@ Speaking math?
 
 Approximation problems
 
+Observation is imperfect
+
+Causal models vs Statistical models
+
 Computation in models
 
 Algorithms used in modeling: MCMC, 
