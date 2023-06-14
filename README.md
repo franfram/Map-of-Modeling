@@ -44,3 +44,5 @@ Algorithms used in modeling: MCMC,
 Write with bookdown? with nvdev?
 
 Other stuff to write about: How to (almost) screw your PhD in the attempt to make good science. 
+
+On the perks of being f**ked up --> no perks `\(~)/`
