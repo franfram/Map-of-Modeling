@@ -27,7 +27,7 @@ Models as information compression
 
 Models as representations
 
-Speaking math?
+Speaking math? check that paper by paul e smaldino
 
 Approximation problems
 
