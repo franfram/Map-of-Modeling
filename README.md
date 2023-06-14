@@ -11,7 +11,7 @@ Frequentist Statistics
 
 Supervised Unsupervised Self-supervised Reinforcement Learning
 
-Causal modeling
+No causes in, no causes out // No causes in, nothing out --> Causal modeling
 
 ABC
 
@@ -30,7 +30,7 @@ Speaking math?
 
 Approximation problems
 
-Observation is imperfect
+Observation is imperfect --> Observation models
 
 Causal models vs Statistical models
 
