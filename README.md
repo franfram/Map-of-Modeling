@@ -1,8 +1,9 @@
 # Map-of-Modeling
 An attempt on making a map of the modeling world
 
-
 inspired by https://www.youtube.com/watch?v=SzJ46YA_RaA
+
+Why build a model? inference in science
 
 Empirical models, Explanatory models
 
@@ -35,6 +36,8 @@ Observation is imperfect --> Observation models
 Causal models vs Statistical models
 
 Computation in models
+
+That (equation) is nice, but we can't calculate it --> Numerical computing
 
 Algorithms used in modeling: MCMC, 
 
