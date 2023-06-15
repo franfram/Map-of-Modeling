@@ -45,6 +45,8 @@ Write with bookdown? with nvdev?
 
 Other stuff to write about: How to (almost) screw your PhD in the attempt to make good science. 
 
-forecasting -> specifying the dynamics vs learning them (NNs or symbolic regression)
+Forecasting -> specifying the dynamics vs learning them (NNs or symbolic regression)
+
+Make a map of the modeling world and make a minimap of each section of the book
 
 On the perks of being f**ked up --> no perks `\(~)/`
