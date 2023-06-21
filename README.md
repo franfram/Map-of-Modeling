@@ -23,7 +23,7 @@ Non-linear models
 
 DiffEq models
 
-Models as information compression
+Models as information compression --> Check Marcus Hutter talk with Lex Fridman, whisper it
 
 Models as representations
 
