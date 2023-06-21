@@ -50,3 +50,7 @@ Forecasting -> specifying the dynamics vs learning them (NNs or symbolic regress
 Make a map of the modeling world and make a minimap of each section of the book
 
 On the perks of being f**ked up --> no perks `\(~)/`
+
+
+Title: A map of the modeling world
+a 100 page attempt to understand the modeling world. 
