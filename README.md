@@ -12,7 +12,7 @@ Frequentist Statistics
 
 Supervised Unsupervised Self-supervised Reinforcement Learning
 
-No causes in, no causes out // No causes in, nothing out --> Causal modeling
+No causes in, no causes out // No causes in, nothing out --> Causal modeling --> whisper Richard's talk
 
 ABC
 
