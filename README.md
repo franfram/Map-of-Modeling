@@ -37,6 +37,10 @@ Observation is imperfect --> Observation models
 
 Causal models vs Statistical models
 
+Top-down vs Bottom-up modeling. 
+
+ABMs vs (Multi-agent) Reinforcement Learning.  
+
 Computation in models
 
 That (equation) is nice, but we can't calculate it --> Numerical computing
