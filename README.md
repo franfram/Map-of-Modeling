@@ -16,6 +16,8 @@ No causes in, no causes out // No causes in, nothing out --> Causal modeling -->
 
 ABC
 
+When it's easier to describe change --> Differential equations (check 3Blue1Brown vids)
+
 Symbolic regression
 
 Linear models
