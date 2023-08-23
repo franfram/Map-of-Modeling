@@ -12,7 +12,7 @@ Frequentist Statistics
 
 Supervised Unsupervised Self-supervised Reinforcement Learning
 
-No causes in, no causes out // No causes in, nothing out --> Causal modeling --> whisper Richard's talk
+No causes in, no causes out // No causes in, nothing out --> Causal modeling --> whisper (or use new better fair model) Richard's talk
 
 ABC
 
@@ -25,7 +25,7 @@ Non-linear models
 
 DiffEq models
 
-Models as information compression --> Check Marcus Hutter talk with Lex Fridman, whisper it
+Models as information compression --> Check Marcus Hutter talk with Lex Fridman, whisper it (or use better model by fair)
 
 Models as representations
 
